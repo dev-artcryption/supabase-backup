@@ -1,0 +1,11 @@
+{
+  "name": "supabase-backup",
+  "version": "1.0.0",
+  "description": "Creating github workflows to create a supabase database backup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
