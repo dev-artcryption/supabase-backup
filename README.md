@@ -1,5 +1,5 @@
 # supabase-backup
-Creating github workflows to create a supabase database backup
+Creating GitHub workflows to create a Supabase database backup
 
 You just need to add `SUPABASE_DB_URL` in your git repo secrets
 
